@@ -12,7 +12,7 @@
     "command": "npx",
     "args": [
       "-y",
-      "https://github.com/TheBananaStand/leo-tavily/archive/458666526d6148fbca45f9faab3d4f499a1ee0a9.tar.gz"
+      "https://github.com/TheBananaStand/leo-tavily/archive/c36dc32c8cc714a99b6e463acd56045c09b1dc02.tar.gz"
     ]
   },
   "descriptor": {
