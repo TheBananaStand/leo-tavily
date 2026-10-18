@@ -1,18 +1,18 @@
 {
-  "name": "tavily-mcp",
-  "label": "Web Search (Tavily, MCP)",
+  "name": "tavily",
+  "label": "Web Search (Tavily)",
   "description": "Tavily web search, installed at runtime — no rebuild.",
   "icon": "search",
   "version": "1.0.0",
   "author": "TheBananaStand",
-  "homepage": "https://github.com/TheBananaStand/leo-tavily-mcp",
+  "homepage": "https://github.com/TheBananaStand/leo-tavily",
   "category": "package",
   "mcp": {
     "transport": "stdio",
     "command": "npx",
     "args": [
       "-y",
-      "https://github.com/TheBananaStand/leo-tavily-mcp/archive/458666526d6148fbca45f9faab3d4f499a1ee0a9.tar.gz"
+      "https://github.com/TheBananaStand/leo-tavily/archive/458666526d6148fbca45f9faab3d4f499a1ee0a9.tar.gz"
     ]
   },
   "descriptor": {

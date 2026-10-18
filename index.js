@@ -96,7 +96,7 @@ async function search({ query, max_results }) {
 }
 
 const server = new Server(
-  { name: "leo-tavily-mcp", version: "1.0.0" },
+  { name: "leo-tavily", version: "1.0.0" },
   { capabilities: { tools: {} } },
 );
 

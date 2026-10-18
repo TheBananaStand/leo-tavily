@@ -1,10 +1,10 @@
 {
-  "name": "leo-tavily-mcp",
+  "name": "leo-tavily",
   "version": "1.0.0",
   "description": "Tavily web search as a Leo provider package, over MCP.",
   "type": "module",
   "bin": {
-    "leo-tavily-mcp": "index.js"
+    "leo-tavily": "index.js"
   },
   "main": "index.js",
   "files": [

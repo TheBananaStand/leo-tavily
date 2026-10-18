@@ -1,4 +1,4 @@
-# leo-tavily-mcp
+# leo-tavily
 
 Tavily web search as a **Leo provider package**, over MCP.
 
@@ -59,7 +59,7 @@ end, where it is hardest to diagnose.
   "mcp": {
     "transport": "stdio",
     "command": "npx",
-    "args": ["-y", "https://github.com/TheBananaStand/leo-tavily-mcp/archive/<40-char-sha>.tar.gz"]
+    "args": ["-y", "https://github.com/TheBananaStand/leo-tavily/archive/<40-char-sha>.tar.gz"]
   },
   "descriptor": {
     "provides": ["web_search"],
